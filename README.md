@@ -1,3 +1,5 @@
+# NAME:T.KAVINAJAI
+# REGISTER NUMBER:212223100020
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
 ## DATE:
@@ -63,6 +65,9 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+<img width="1428" height="611" alt="image" src="https://github.com/user-attachments/assets/b8e0e869-cf28-41ab-aa74-02138716addf" />
+
+<img width="1057" height="747" alt="image" src="https://github.com/user-attachments/assets/9c3c3b78-87f8-453b-acc8-060e1cd2bc90" />
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
